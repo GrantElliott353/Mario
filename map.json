@@ -1,0 +1,4 @@
+{
+ "tubes":[{"Type":"tube","y":205,"x":230},{"Type":"tube","y":179,"x":650}],
+ "goombas":[{"Type":"goomba","y":246,"x":364},{"Type":"goomba","y":246,"x":400},{"Type":"goomba","y":246,"x":380}]
+}
